@@ -15,7 +15,7 @@ The Data is displayed on a Dashboard using Grafana. Data Analytics are give in A
 
 Use RS485 to USB converter and connect RS485 pins of converter to RS485 of meter and USB to Raspberry Pi.
 
-![RS485](/RS485.jpeg)
+![RS485](/meterbody.png)
 
 ## API for reading Modbus RTU
 
