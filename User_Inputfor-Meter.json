@@ -1,0 +1,14 @@
+{
+  
+    "dashboardURL":"Dash board url",
+    "dashboardName":"Dash board name",
+    "hostURL":"Enter Your Host URL",
+    "port": 8883,
+    "certDir":"../certs/",
+    "rootCA":"Enter Your Root CA File Name",
+    "certName":"Enter Your Certificate File Name",
+    "privKey":"Enter Your Private Key file Name",
+    "QOS":0,
+    "clientID":"Enter your Client ID"
+
+}
